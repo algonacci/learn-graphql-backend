@@ -1,0 +1,26 @@
+{
+  "name": "learn-graphql-backend",
+  "version": "1.0.0",
+  "description": "The personal documentation of me learning GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algonacci/learn-graphql-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algonacci/learn-graphql-backend/issues"
+  },
+  "homepage": "https://github.com/algonacci/learn-graphql-backend#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.1",
+    "apollo-server-core": "^3.10.1",
+    "graphql": "^16.5.0",
+    "mongoose": "^6.5.2"
+  }
+}
